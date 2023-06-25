@@ -5,7 +5,7 @@ I'm a student at Independent University, Bangladesh, pursuing my BSc in Computer
 ## 🌱 About Me
 
 - 🎓 Studying **BSc in Computer Science and Engineering** at Independent University, Bangladesh.
-- 💼 Currently serving as the **Chair** of the IEEE Computer Society IUB Student Branch Chapter (2022-2023).
+- 💼 Served as the **Chair** of the IEEE Computer Society IUB Student Branch Chapter (2022-2023).
 - 🏆 Awarded the **"Best CS Student Volunteer Award (Honorable Mention)"** by the IEEE Computer Society Bangladesh Chapter.
 - 💻 Contributed to the **IEEEXtreme 16.0 Public Relations Graphics Design Team** and recognized as one of the top representatives.
 - 📚 Passionate about learning and exploring new technologies.
