@@ -44,4 +44,8 @@ I have experience working with a variety of technologies and tools including:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashfaqfardin&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfaqfardin&theme=dark)
 
+## ⚡ LeetCode Stats
+
+![](https://leetcard.jacoblin.cool/ashfaqfardin?border=0&radius=20)
+
 Feel free to explore my GitHub repositories and projects. If you have any questions, suggestions, or just want to connect, feel free to reach out to me. Let's collaborate and create amazing things together! 😊
