@@ -50,6 +50,6 @@ I have experience working with a variety of technologies and tools including:
 
 ## 🎖️ Badges
 
-![Holopin Badges](https://holopin.me/ashfaqfardin)](https://holopin.io/@ashfaqfardin)
+[![Holopin Badges](https://holopin.me/ashfaqfardin)](https://holopin.io/@ashfaqfardin)
 
 Feel free to explore my GitHub repositories and projects. If you have any questions, suggestions, or just want to connect, feel free to reach out to me. Let's collaborate and create amazing things together! 😊
