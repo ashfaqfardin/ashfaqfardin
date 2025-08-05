@@ -1,13 +1,14 @@
 # Hi there, I'm Mohammad Ashfaq Ur Rahman! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ashfaqfardin)
 
-I'm a student at Independent University, Bangladesh, pursuing my BSc in Computer Science and Engineering with a minor in Marketing. I have a passion for technology and a keen interest in software development, data science, and graphic design.
+I have graduated from Independent University, Bangladesh, with a BSc in Computer Science and Engineering and a minor in Marketing. I have a passion for technology and a strong interest in software development and data science.
 
 ## 🌱 About Me
 
-- 🎓 Studying **BSc in Computer Science and Engineering** at Independent University, Bangladesh.
-- 💼 Served as the **Chair** of the IEEE Computer Society IUB Student Branch Chapter (2022-2023).
-- 🏆 Awarded the **"Best CS Student Volunteer Award (Honorable Mention)"** by the IEEE Computer Society Bangladesh Chapter.
-- 💻 Contributed to the **IEEEXtreme 16.0 Public Relations Graphics Design Team** and recognized as one of the top representatives.
+- 🎓 Graduated with a **Bachelor of Science in Computer Science and Engineering** from Independent University, Bangladesh.
+- 💼 Served as the **Chair** of the IEEE Computer Society IUB Student Branch Chapter from 2022 to 2023.
+- 🏆 Received the **"Best CS Student Volunteer Award (Honorable Mention)"** from the IEEE Computer Society Bangladesh Chapter.
+- 💻 Contributed to the **IEEEXtreme 16.0 Public Relations Graphics Design Team** and was recognized as one of the top representatives.
 - 📚 Passionate about learning and exploring new technologies.
 - 🌍 Active member of **IEEE** and involved in organizing tech events.
 
@@ -23,7 +24,7 @@ I'm a student at Independent University, Bangladesh, pursuing my BSc in Computer
 - 📫 Email: imashfaqfardin@gmail.com
 - 🐦 Twitter: [@ashfaqfardin](https://twitter.com/ashfaqfardin)
 - 💼 LinkedIn: [Mohammad Ashfaq Ur Rahman](https://linkedin.com/in/ashfaqfardin)
-- 🌐 Personal Website: [ashfaqfardin.me](https://ashfaqfardin.me)
+- 🌐 Personal Website: [ashfaqfardin.me](https://ashfaqfardin.github.io)
 
 ## 💻 Languages and Tools
 
@@ -47,9 +48,5 @@ I have experience working with a variety of technologies and tools including:
 ## ⚡ LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/ashfaqfardin?border=0&radius=20)
-
-## 🎖️ Badges
-
-[![Holopin Badges](https://holopin.me/ashfaqfardin)](https://holopin.io/@ashfaqfardin)
 
 Feel free to explore my GitHub repositories and projects. If you have any questions, suggestions, or just want to connect, feel free to reach out to me. Let's collaborate and create amazing things together! 😊
