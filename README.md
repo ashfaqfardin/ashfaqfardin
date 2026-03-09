@@ -8,7 +8,7 @@ I have graduated from Independent University, Bangladesh, with a BSc in Computer
 - 🎓 Graduated with a **Bachelor of Science in Computer Science and Engineering** from Independent University, Bangladesh.
 - 💼 Served as the **Chair** of the IEEE Computer Society IUB Student Branch Chapter from 2022 to 2023.
 - 🏆 Received the **"Best CS Student Volunteer Award (Honorable Mention)"** from the IEEE Computer Society Bangladesh Chapter.
-- 💻 Contributed to the **IEEEXtreme 16.0 Public Relations Graphics Design Team** and was recognized as one of the top representatives.
+- 💻 Contributed to the **IEEEXtreme 16.0 & 17.0 Public Relations Graphics Design Team** and was recognized as one of the top representatives.
 - 📚 Passionate about learning and exploring new technologies.
 - 🌍 Active member of **IEEE** and involved in organizing tech events.
 
