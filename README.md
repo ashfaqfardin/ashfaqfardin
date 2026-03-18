@@ -5,7 +5,7 @@
 **MSc Artificial Intelligence · University of Surrey**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashfaqfardin)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.com/citations?user=irKpmnUAAAAJ&hl=en))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=irKpmnUAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ashfaqfardin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imashfaqfardin@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ashfaqfardin&style=flat-square&color=0077B5&label=Profile+Views)](https://github.com/ashfaqfardin)
